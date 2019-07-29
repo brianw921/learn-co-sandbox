@@ -7,3 +7,6 @@ end
 # greeting
 # greeting
 # greeting
+
+def say_greeting_five_times
+end
