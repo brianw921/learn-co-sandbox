@@ -50,9 +50,14 @@
 #   count += 1
 # end
 
-counter = 18
-until counter == 20 
-puts "the current num is less than 20"
-counter += 1 
+# counter = 18
+# until counter == 20 
+# puts "the current num is less than 20"
+# counter += 1 
+# end
+
+def greeting
+  puts "Hello World"
 end
 
+greeting
