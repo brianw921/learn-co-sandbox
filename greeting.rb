@@ -9,4 +9,5 @@ end
 # greeting
 
 def say_greeting_five_times
+  greeting
 end
